@@ -13,7 +13,8 @@ Status: [Completada]
     - Se localizo una cuenta de Linkedin asociada a su nombre
 - **Estado de la Ivestigacion**: Concluida.
 
-<image src="https://github.com/totoairone/OSINT_Heron1/blob/main/images/heroncyberlogo.png" alt="HERON">
+<image src="https://github.com/totoairone/OSINT_Heron1/blob/main/images/heroncyberlogo.png" width="400" 
+     height="500" alt="HERON">
 
 ## Perfil del Sujeto
 - **Nombre Completo**: [Abdo Askar Torres]
