@@ -4,13 +4,15 @@ Fecha: [07/Septiembre]
 Status: [Completada]
 ---
 
+
+
 ## Resumen Ejecutivo
 - **Objectivo de la Investigacion**: Localizar el domicilio de Abdon Askar Torres. Conocer si aun se encuentra vivo.
 - **Hallazgos Clave**:
     - Actualmente radica en Texas, Estados Unidos
     - Se localizo una cuenta de Linkedin asociada a su nombre
 - **Estado de la Ivestigacion**: Concluida.
-
+<image src="https://github.com/totoairone/OSINT_Heron1/blob/main/images/heroncyberlogo.png" alt="HERON">
 ## Perfil del Sujeto
 - **Nombre Completo**: [Abdo Askar Torres]
 - **Alias**: [Abdo T Askar, Abdo Askar T]
