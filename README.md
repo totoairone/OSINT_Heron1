@@ -27,11 +27,6 @@ Status: [Completada]
 ### Fotografias
 <image src="https://github.com/totoairone/OSINT_Heron1/blob/main/images/abdoLinkedin.jpeg" alt="INE"> <image src="https://github.com/totoairone/OSINT_Heron1/blob/main/images/abdoPicColor.jpg" alt="INE"> 
 
-### Websites y Blogs
-- Personal Websites: [Link/Details]
-- Professional Portfolios: [Link/Details]
-- Blogs or Publications: [Link/Details]
-
 ### Direcciones de Email
 - Personal: [abner_askar@hotmail.com
 girl_power48@hotmail.com
