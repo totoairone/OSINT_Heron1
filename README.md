@@ -7,11 +7,11 @@ Status: [Completada]
 
 
 ## Resumen Ejecutivo
-- **Objectivo de la Investigacion**: Localizar el domicilio de Abdon Askar Torres. Conocer si aun se encuentra vivo.
+- **Objetivo de la Investigacion**: Localizar el domicilio de Abdon Askar Torres. Conocer si aun se encuentra vivo.
 - **Hallazgos Clave**:
     - Actualmente radica en Texas, Estados Unidos
     - Se localizo una cuenta de Linkedin asociada a su nombre
-- **Estado de la Ivestigacion**: Concluida.
+- **Estado de la Investigacion**: Concluida.
 <div align="center">
 <image src="https://github.com/totoairone/OSINT_Heron1/blob/main/images/heroncyberlogo.png" width="200" 
      height="200" alt="HERON">
@@ -21,14 +21,14 @@ Status: [Completada]
 - **Nombre Completo**: [Abdo Askar Torres]
 - **Alias**: [Abdo T Askar, Abdo Askar T]
 - **Fecha de Nacimiento**: [02/Feb/1962]
-- **Nationalidad**: [Mexicana]
+- **Nacionalidad**: [Mexicana]
 - **Residencia Actual**: [2814 Saint Maria Dr. Mansfield Tx, 76063 (Latitude, Longitude: 32.606343, -97.12314)]
-- **Ocupacion**: [Asa Prom MArketing, ubicada en el mismo domicilio. Brindan consultoria para el pago de impuestos]
+- **Ocupacion**: [Asa Prom Marketing, ubicada en el mismo domicilio. Brindan consultoria para el pago de impuestos]
 
 ## Digital Footprint
 ### Cuentas de Redes Sociales
 - **Facebook**: [Cuenta restringida]
-- **LinkedIn**: [Abdo Askar/Asa Prom](https://www.linkedin.com/in/abdo-askar-965b3197/abdo_pic_3_EgNBK__please_credit[palette.fm)
+- **LinkedIn**: [Abdo Askar/Asa Prom](https://www.linkedin.com/in/abdo-askar-965b3197)
 
 ### Fotografias
 <image src="https://github.com/totoairone/OSINT_Heron1/blob/main/images/abdoLinkedin.jpeg" alt="INE"> <image src="https://github.com/totoairone/OSINT_Heron1/blob/main/images/abdoPicColor.jpg" alt="INE"> 
