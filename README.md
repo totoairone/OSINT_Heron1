@@ -25,7 +25,7 @@ Status: [Completada]
 - **LinkedIn**: [Abdo Askar/Asa Prom](https://www.linkedin.com/in/abdo-askar-965b3197/abdo_pic_3_EgNBK__please_credit[palette.fm)
 
 ### Fotografias
-  - <image src="/media/kombiwagner/a95c7fc3-dacd-4b14-96e0-812cc80ffcb7/toto/Documents/askar/abdoPicColor.jpg" alt="INE"> <image src="/media/kombiwagner/a95c7fc3-dacd-4b14-96e0-812cc80ffcb7/toto/Documents/askar/abdoLinkedin.jpeg" alt="INE"> 
+  - <image src="/images/abdoPicColor.jpg" alt="INE"> <image src="/images/abdoLinkedin.jpeg" alt="INE"> 
 
 ### Websites y Blogs
 - Personal Websites: [Link/Details]
