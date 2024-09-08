@@ -12,10 +12,10 @@ Status: [Completada]
     - Actualmente radica en Texas, Estados Unidos
     - Se localizo una cuenta de Linkedin asociada a su nombre
 - **Estado de la Ivestigacion**: Concluida.
-
+<div align="center">
 <image src="https://github.com/totoairone/OSINT_Heron1/blob/main/images/heroncyberlogo.png" width="200" 
      height="200" alt="HERON">
-
+</div>
 ## Perfil del Sujeto
 - **Nombre Completo**: [Abdo Askar Torres]
 - **Alias**: [Abdo T Askar, Abdo Askar T]
